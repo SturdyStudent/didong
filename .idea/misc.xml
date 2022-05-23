@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/address_icon.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/badge_background.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/bg_green_button.xml" value="0.25277777777777777" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/bg_green_corner_button.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/bg_header_layout.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/bg_red_border_button.xml" value="0.2490740740740741" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/bottom_outline.xml" value="0.2421875" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/email_icon.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/phone_icon.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/round.xml" value="0.1421875" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/signin_button.xml" value="0.17314814814814813" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/drawable/user_icon.xml" value="0.15677083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/activity_basket_dialog_fragment.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/activity_login.xml" value="0.176" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/activity_order.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/activity_restaurant_detail.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/activity_sign_up.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/activity_welcome.xml" value="0.176" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/cart_menu.xml" value="0.14270833333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/custom_action_item_menu.xml" value="0.4" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/custom_dialog.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_add_to_basket.xml" value="0.2" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_add_to_basket_dialog.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_address.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_basket_dialog_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_blank.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_display_dialog_fragment.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_display_fragment.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_fullname.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_home.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_logout.xml" value="0.19927536231884058" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_order.xml" value="0.1933876811594203" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_profile.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_restaurant.xml" value="0.4" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_top_restaurant.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_topfood.xml" value="0.22056159420289856" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/fragment_username_password.xml" value="0.17527173913043478" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/header_layout.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/row_food_basket.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/row_order_finished.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/row_order_food.xml" value="0.12760416666666666" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/row_restaurant.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/row_top_food.xml" value="0.264" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/row_top_restaurant.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/layout/toolbar.xml" value="0.20471014492753623" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/menu/cart_menu.xml" value="0.4" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/menu/main_menu.xml" value="0.23854166666666668" />
+        <entry key="..\:/Users/ACER/AndroidStudioProjects/TTD_19DH111156/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1421875" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

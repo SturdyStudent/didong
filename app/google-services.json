@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "282515969672",
+    "project_id": "ttd-lddd-nc",
+    "storage_bucket": "ttd-lddd-nc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282515969672:android:ab5cc6e767756df7d6f13d",
+        "android_client_info": {
+          "package_name": "com.thuchanh.TTD_19DH111156"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282515969672-kq7cdn046vtuc85vvihtg2t22gpkgaps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEBld35cdD-xN-HQZT-HDeAtB4gUnz_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282515969672-kq7cdn046vtuc85vvihtg2t22gpkgaps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282515969672:android:20306bcd6154924ad6f13d",
+        "android_client_info": {
+          "package_name": "com.thuchanh.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282515969672-kq7cdn046vtuc85vvihtg2t22gpkgaps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXEBld35cdD-xN-HQZT-HDeAtB4gUnz_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282515969672-kq7cdn046vtuc85vvihtg2t22gpkgaps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
